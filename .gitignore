@@ -150,6 +150,7 @@ dmypy.json
 
 .DS_Store
 *.csv
+*.parquet
 
 # pytype static type analyzer
 .pytype/
